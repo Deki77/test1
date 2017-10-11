@@ -10,4 +10,7 @@ int main(){
 
 	int* p = &sum;
 	printf("%d", *p);
+
+	int* b = &mask;
+	
 }
